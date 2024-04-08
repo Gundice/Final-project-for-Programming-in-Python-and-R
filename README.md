@@ -1,4 +1,5 @@
-Fashion MNIST CNN Classifier
+**Fashion MNIST CNN Classifier**
+
 This repository contains a Python script for training a convolutional neural network (CNN) to classify images from the Fashion MNIST dataset using Keras.
 
 Description
